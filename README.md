@@ -1,1 +1,3 @@
-this is a DUMMY GAME that will be updated if needed
+# Man's firearm (raycasting) game in Python
+
+Control: 'WASD' + mouse
